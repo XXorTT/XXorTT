@@ -1,3 +1,6 @@
+<figure><embed src="https://wakatime.com/share/@387dce91-fb72-4235-bf0c-abcbd933dce3/9f992b89-e59a-4cfd-ba5a-cb4e3838184a.svg"></embed></figure>
+
+
 - 👋 Hi, I’m @XXorTT
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
