@@ -14,3 +14,6 @@
 XXorTT/XXorTT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+.. image:: https://wakatime.com/share/@387dce91-fb72-4235-bf0c-abcbd933dce3/391699cd-035a-4a70-a347-d2f73c90e7ae.png
+    :target: https://wakatime.com/
